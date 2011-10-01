@@ -1,5 +1,3 @@
-#README
-
 Control a [ShowOff](https://github.com/schacon/showoff) presentation (for all connected users) via a Node app running Socket.IO. 
 
 ##Install dependencies & start the server.
